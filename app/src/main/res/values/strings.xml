@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentLogin</string>
+    <string name="proceed">Proceed</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="alredy_account">Already Have an Account?</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="pass">Password</string>
+    <string name="repass">Confirm Password</string>
+    <string name="resendotp">Resend OTP</string>
+</resources>
